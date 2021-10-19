@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@definitelytyped/header-parser": "latest",
-    "@definitelytyped/typescript-versions": "latest",
+    "@definitelytyped/typescript-versions": "0.0.89",
     "@definitelytyped/utils": "latest",
     "dts-critic": "latest",
     "fs-extra": "^6.0.1",
